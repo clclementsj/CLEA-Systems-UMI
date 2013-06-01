@@ -1,0 +1,5 @@
+export MPL_FILES_DIR=/mpl_dropdir
+export MPL_APP_DIR=/mpl_appdir
+export MPL_WORK_DIR=/mpl_wrkdir
+export MPL_STOP_FILE=/mpl_wrkdir/stop
+export MPL_LOG_LEVEL=4
